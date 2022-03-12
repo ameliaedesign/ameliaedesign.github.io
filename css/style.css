@@ -3,12 +3,16 @@
 
 
 body {
-    width: 100%;
+    width: 90%;
     height: 100%;
     font-family: 'Fredoka',sans-serif;
 	  font-weight: 300;
     color: #667;
     background-color: #fff;
+
+    margin: auto;
+    min-width:600px;
+    max-width:2000px;
 }
 
 html {
