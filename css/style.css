@@ -538,7 +538,7 @@ Parallax
     height: 70px;
     margin-top: 15px;
     padding: 7px 16px;
-    border: 2px solid #fff;
+    border: 2px solid #ff9999;
     border-radius: 50%;
     font-size: 40px;
     color: #ff9999;
@@ -549,8 +549,8 @@ Parallax
 }
 
 .btn-circle.btn-dark {
-    border: 2px solid #666;
-    color: #666;
+    border: 2px solid #ff9999;
+    color: #ff9999;
 }
 
 
