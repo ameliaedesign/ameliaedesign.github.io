@@ -541,7 +541,7 @@ Parallax
     border: 2px solid #fff;
     border-radius: 50%;
     font-size: 40px;
-    color: #fff;
+    color: #ff9999;
     background: 0 0;
     -webkit-transition: background .3s ease-in-out;
     -moz-transition: background .3s ease-in-out;
@@ -557,20 +557,29 @@ Parallax
 .btn-circle:hover,
 .btn-circle:focus {
     outline: 0;
-    color: #fff;
-    background: rgba(255,255,255,.1);
+    color: #ff9999;
+    background: rgb(255, 153, 153);
 }
 
 .btn-circle.btn-dark :hover,
 .btn-circle.btn-dark :focus {
     outline: 0;
-    color: #999;
-    background: #fff;
+    color: #ff9999;
+    background: #ff9999;
 }
 
 .btn-circle.btn-dark :hover i,
 .btn-circle.btn-dark :focus i{
-    color: #999;
+    color: #ff9999;
+}
+
+.mobile-container {
+    max-width: 414px;
+    margin: auto;
+    background-color: #555;
+    height: 896px;
+    color: white;
+    border-radius: 10px;
 }
 
 .page-scroll .btn-circle i.animated {
