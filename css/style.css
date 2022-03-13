@@ -591,6 +591,46 @@ Parallax
     -moz-animation-timing-function: linear;
 }
 
+
+
+.topnav
+{
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+}
+
+.topnav #myLinks {
+    display: none;
+}
+
+.topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+}
+
+.topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.active {
+    background-color: #04AA6D;
+    color: white;
+}
+
+
 @-webkit-keyframes pulse {
     0 {
         -webkit-transform: scale(1);
@@ -735,7 +775,7 @@ Parallax
 		height: 40px;
 		margin-top: 10px;
 		padding: 7px 0;
-		border: 2px solid #fff;
+		border: 1px solid #ff9999;
 		border-radius: 50%;
 		font-size: 20px;
 	}
