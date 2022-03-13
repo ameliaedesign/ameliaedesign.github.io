@@ -75,7 +75,7 @@ a:focus {
 }
 
 .navbar-brand h1{
-	color: #ff9999;
+    color: #ff9999;
   font-size: 20px;
   line-height: 40px;
 }
@@ -85,7 +85,7 @@ a:focus {
 }
 
 .nav.navbar-nav {
-    background-color: rgb(255, 153, 153);
+    background-color: rgb(255, 255, 255);
 }
 
 .navbar-custom.top-nav-collapse .nav.navbar-nav {
@@ -96,7 +96,7 @@ a:focus {
 .navbar-custom ul.nav li a {
 	font-size: 12px;
 	letter-spacing: 1px;
-    color: #ff9999;
+    color: #ffdab9;
 	text-transform: uppercase;
 	font-weight: 700;
 }
@@ -370,7 +370,7 @@ hr {
 }
 
 .intro .slogan h4 {
-	color: #ff9999;
+	color: #ffdab9;
 	text-shadow: -1px 1px 1px #000;
 }
 
@@ -476,7 +476,7 @@ footer {
 }
 
 footer p {
-	color: #ff9999;
+	color: #ffffff;
 }
 
 /* ==========================
