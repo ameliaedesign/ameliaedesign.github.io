@@ -576,9 +576,9 @@ Parallax
 .mobile-container {
     max-width: 414px;
     margin: auto;
-    background-color: #555;
+    background-color: #ff9999;
     height: 896px;
-    color: white;
+    color: peachpuff;
     border-radius: 10px;
 }
 
@@ -650,9 +650,9 @@ Parallax
 .btn-skin:focus,
 .btn-skin:active,
 .btn-skin.active {
-  color: #fff;
-  background-color: #666;
-  border-color: #666;
+  color: #ff9999;
+  background-color: #ff9999;
+  border-color: #ff9999;
 }
 
 
@@ -694,7 +694,7 @@ Parallax
     }
 
     .navbar-custom.top-nav-collapse {
-        border-bottom: 1px solid rgba(255,255,255,.3);
+        border-bottom: 1px solid rgb(255, 153, 153);
     }
 
     .intro {
